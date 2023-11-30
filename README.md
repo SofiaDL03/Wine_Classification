@@ -10,7 +10,6 @@ This repository contains an experimentation project for the Data Science class a
 
 The experimentation results can be viewed in detail on the Weights & Biases dashboard. This includes various performance metrics such as accuracy, along with the hyperparameters used for each experiment.
 
-🔗 [View Experimentation Results](https://api.wandb.ai/links/demstalfer/qnqgjsqc)
 
 ## Problem Description
 
